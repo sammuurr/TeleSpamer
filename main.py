@@ -1,9 +1,7 @@
 import asyncio
-from asyncio import sleep
 from pyrogram import Client, filters
 import config
 import DataBase as db
-import threading
 
 from aiogram import Bot, types
 from aiogram.dispatcher import Dispatcher
