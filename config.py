@@ -1,0 +1,5 @@
+appApiId = 11395137
+appApiHash = "12a4504defed275d11bc7d98b67df16b"
+
+TOKEN = "5210707388:AAEjU1Y98ZarNyE11ROwigGWKttePTdHjPM"
+
